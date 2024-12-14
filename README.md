@@ -1,2 +1,2 @@
 # Transit Gap
-Description here
+In this project, I systematically analyzed transit demand, supply, and gaps at the block group level in Oklahoma City. It involved data cleaning, geospatial analysis, and statistical calculations. Key steps included calculating the transit-dependent population using demographic data, assessing transit supply metrics (e.g., transit stops, routes, walkways), and standardizing these metrics with z-scores. The code then computed transit gaps by subtracting demand z-scores from supply z-scores, identifying transit deserts. The analysis was visualized using maps and charts, providing clear insights into areas with significant transit deficiencies.
